@@ -51,17 +51,6 @@ SharpLoader is a Python-based tool that converts raw shellcode from C2 framework
     ● Windows Defender static bypass via string obfuscation
 
 
-
-
-[+] Key Features:
-    ● Cross-platform compilation (Kali → Windows EXE)
-    ● XOR encryption of C2 indicators (IP, Port, URL)
-    ● HTTP stager with remote payload delivery
-    ● Registry persistence (HKCU\Software\Microsoft\Windows\CurrentVersion\Run)
-    ● Hidden console execution (no popup windows)
-    ● PowerShell fallback generator
-    ● Windows Defender static bypass via string obfuscation
-
 [+] Attack Workflow Diagram:
 
     ┌─────────────────────────────────────────────────────────────────────────────┐
