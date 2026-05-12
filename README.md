@@ -1,4 +1,4 @@
-# 🔪 SharpLoader - C# Payload Builder for Windows Red Teaming
+# 🔪 PyCrypt - C# Payload Builder for Windows Red Teaming
 
 **Cross-platform payload generator that compiles XOR-obfuscated C# stagers directly on Kali Linux - no Windows required.**
 
